@@ -67,7 +67,7 @@ export default function Home() {
           {/* <Logo
             style={{ position: "absolute", bottom: 40, left: 40, width: 30 }}
           /> */}
-          <h1 className="text-5xl">Heloo</h1>
+          <h1 className="text-5xl">Helooo</h1>
         </div>
       </main>
     </>
